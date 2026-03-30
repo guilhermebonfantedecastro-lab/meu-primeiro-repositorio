@@ -4,5 +4,4 @@ Olá meu nonme é Guilherme tenho 19 anos de idade sou natural de Batatais, gost
 - Trabalhar no exterior
 - Aprender diversas linguas de  programaçao
 
-git   Adiciona apresentação inicial no readme 
-  
+  Adiciona apresentação inicial no readme 
